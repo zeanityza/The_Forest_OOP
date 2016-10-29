@@ -1,0 +1,19 @@
+
+gamebutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Button2
+  rotate: false
+  xy: 1, 1
+  size: 186, 195
+  orig: 186, 195
+  offset: 0, 0
+  index: -1
+Button1
+  rotate: false
+  xy: 189, 9
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1

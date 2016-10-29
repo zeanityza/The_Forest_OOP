@@ -1,0 +1,591 @@
+
+girl_sol.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Dead (1)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+
+girl_sol2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Dead (10)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+png/Dead (7)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+png/Dead (8)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+png/Dead (9)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+
+girl_sol3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Dead (2)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+
+girl_sol4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Dead (3)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+
+girl_sol5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Dead (4)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+
+girl_sol6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Dead (5)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+
+girl_sol7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Dead (6)
+  rotate: false
+  xy: 1, 1
+  size: 605, 604
+  orig: 605, 604
+  offset: 0, 0
+  index: -1
+
+girl_sol8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Idle (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Idle (10)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+png/Idle (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Idle (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+png/Idle (9)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Idle (4)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+png/Idle (8)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Idle (5)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+png/Idle (7)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Idle (6)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol14.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol15.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (10)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol16.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol17.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol18.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (4)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol19.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (5)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (6)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol21.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (7)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (8)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol23.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Jump (9)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol24.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Melee (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol25.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Melee (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol26.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Melee (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol27.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Melee (4)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol28.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Melee (5)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol29.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Melee (6)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol30.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Melee (7)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol31.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Run (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol32.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Run (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol33.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Run (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol34.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Run (4)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol35.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Run (5)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol36.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Run (6)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol37.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Run (7)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol38.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Run (8)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol39.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Shoot (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol40.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Shoot (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol41.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Shoot (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol42.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Slide (1)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol43.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Slide (2)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+png/Slide (5)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+
+girl_sol44.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+png/Slide (3)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1
+png/Slide (4)
+  rotate: false
+  xy: 1, 1
+  size: 641, 542
+  orig: 641, 542
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,87 @@
+
+overbutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Windows
+  rotate: false
+  xy: 1, 475
+  size: 713, 537
+  orig: 713, 537
+  offset: 0, 0
+  index: -1
+Button1
+  rotate: false
+  xy: 716, 814
+  size: 197, 198
+  orig: 197, 198
+  offset: 0, 0
+  index: -1
+Button6
+  rotate: false
+  xy: 716, 615
+  size: 196, 197
+  orig: 196, 197
+  offset: 0, 0
+  index: -1
+Button4
+  rotate: false
+  xy: 716, 410
+  size: 195, 203
+  orig: 195, 203
+  offset: 0, 0
+  index: -1
+Button10
+  rotate: false
+  xy: 1, 257
+  size: 408, 216
+  orig: 408, 216
+  offset: 0, 0
+  index: -1
+Button2
+  rotate: false
+  xy: 411, 273
+  size: 193, 200
+  orig: 193, 200
+  offset: 0, 0
+  index: -1
+Button20
+  rotate: false
+  xy: 606, 205
+  size: 392, 203
+  orig: 392, 203
+  offset: 0, 0
+  index: -1
+Button5
+  rotate: false
+  xy: 411, 76
+  size: 192, 195
+  orig: 192, 195
+  offset: 0, 0
+  index: -1
+Button11
+  rotate: false
+  xy: 605, 1
+  size: 390, 202
+  orig: 390, 202
+  offset: 0, 0
+  index: -1
+Button12
+  rotate: false
+  xy: 1, 54
+  size: 386, 201
+  orig: 386, 201
+  offset: 0, 0
+  index: -1
+
+overbutton2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Button3
+  rotate: false
+  xy: 1, 1
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: -1

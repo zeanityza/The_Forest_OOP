@@ -1,0 +1,281 @@
+
+nin2ja.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 498
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 0
+Attack_
+  rotate: false
+  xy: 1, 1
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 1
+Dead_
+  rotate: false
+  xy: 539, 495
+  size: 482, 498
+  orig: 482, 498
+  offset: 0, 0
+  index: 9
+Glide
+  rotate: false
+  xy: 539, 39
+  size: 443, 454
+  orig: 443, 454
+  offset: 0, 0
+  index: 0
+
+nin2ja2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 498
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 2
+Attack_
+  rotate: false
+  xy: 1, 1
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 3
+Throw_
+  rotate: false
+  xy: 539, 542
+  size: 377, 451
+  orig: 377, 451
+  offset: 0, 0
+  index: 1
+Run_
+  rotate: false
+  xy: 539, 82
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 0
+
+nin2ja3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 498
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 4
+Attack_
+  rotate: false
+  xy: 1, 1
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 5
+Run_
+  rotate: false
+  xy: 539, 535
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 1
+Run_
+  rotate: false
+  xy: 539, 75
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 2
+
+nin2ja4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 498
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 6
+Attack_
+  rotate: false
+  xy: 1, 1
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 7
+Run_
+  rotate: false
+  xy: 539, 535
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 3
+Run_
+  rotate: false
+  xy: 539, 75
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 4
+
+nin2ja5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack_
+  rotate: false
+  xy: 1, 498
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 8
+Attack_
+  rotate: false
+  xy: 1, 1
+  size: 536, 495
+  orig: 536, 495
+  offset: 0, 0
+  index: 9
+Run_
+  rotate: false
+  xy: 539, 535
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 5
+Run_
+  rotate: false
+  xy: 539, 75
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 6
+
+nin2ja6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (1)
+  rotate: false
+  xy: 1, 484
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+Walk (10)
+  rotate: false
+  xy: 1, 1
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+Run_
+  rotate: false
+  xy: 550, 507
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 7
+Run_
+  rotate: false
+  xy: 550, 47
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 8
+
+nin2ja7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (2)
+  rotate: false
+  xy: 1, 484
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+Walk (3)
+  rotate: false
+  xy: 1, 1
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+Run_
+  rotate: false
+  xy: 550, 507
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 9
+
+nin2ja8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (4)
+  rotate: false
+  xy: 1, 484
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+Walk (5)
+  rotate: false
+  xy: 1, 1
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+
+nin2ja9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (6)
+  rotate: false
+  xy: 1, 484
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+Walk (7)
+  rotate: false
+  xy: 1, 1
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+
+nin2ja10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Walk (8)
+  rotate: false
+  xy: 1, 484
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1
+Walk (9)
+  rotate: false
+  xy: 1, 1
+  size: 547, 481
+  orig: 547, 481
+  offset: 0, 0
+  index: -1

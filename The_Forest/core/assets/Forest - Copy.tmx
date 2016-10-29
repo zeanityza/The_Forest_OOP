@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="350" height="15" tilewidth="128" tileheight="128" nextobjectid="417">
+ <tileset firstgid="1" name="back3" tilewidth="128" tileheight="128" margin="1" tilecount="364" columns="26">
+  <image source="ddd/New folder (5)/back3.jpg" width="3440" height="1840"/>
+ </tileset>
+ <tileset firstgid="365" name="back4" tilewidth="128" tileheight="128" margin="1" tilecount="364" columns="26">
+  <image source="ddd/New folder (5)/back4.png" width="3440" height="1840"/>
+ </tileset>
+ <tileset firstgid="729" name="rocks_grass_block@2x" tilewidth="128" tileheight="128" margin="1" tilecount="16" columns="4">
+  <image source="ddd/New folder (8)/rocks_grass_block@2x.png" width="571" height="577"/>
+ </tileset>
+ <tileset firstgid="745" name="seamless-summer-ocean-background-ui-game-illustration-cartoon-wide-water-waves-patterns-holidays-vacations-landscape-56117160" tilewidth="128" tileheight="128" margin="1" tilecount="60" columns="10">
+  <image source="ddd/New folder (5)/New Folder/seamless-summer-ocean-background-ui-game-illustration-cartoon-wide-water-waves-patterns-holidays-vacations-landscape-56117160.jpg" width="1300" height="879"/>
+ </tileset>
+ <tileset firstgid="805" name="ppp3" tilewidth="128" tileheight="128" margin="1" tilecount="60" columns="10">
+  <image source="ddd/New folder (8)/ppp3.png" width="1299" height="881"/>
+ </tileset>
+ <tileset firstgid="865" name="ttt" tilewidth="128" tileheight="128" margin="1" tilecount="42" columns="7">
+  <image source="ddd/New folder (5)/New Folder/ttt.png" width="900" height="808"/>
+ </tileset>
+ <tileset firstgid="907" name="waterfall@2x" tilewidth="128" tileheight="128" margin="1" tilecount="6" columns="2">
+  <image source="ddd/New folder (8)/waterfall@2x.png" width="276" height="474"/>
+ </tileset>
+ <tileset firstgid="913" name="sandbags@3x" tilewidth="128" tileheight="128" margin="1" tilecount="15" columns="5">
+  <image source="ddd/New folder (8)/sandbags@3x.png" width="714" height="436"/>
+ </tileset>
+ <tileset firstgid="928" name="LongPlatformNew" tilewidth="128" tileheight="128" margin="1" tilecount="132" columns="22">
+  <image source="ddd/New folder (5)/groundd/LongPlatformNew.png" width="2878" height="884"/>
+ </tileset>
+ <tileset firstgid="1060" name="brick_wall2@3x" tilewidth="128" tileheight="128" margin="1" tilecount="63" columns="9">
+  <image source="ddd/New folder (8)/brick_wall2@3x.png" width="1216" height="1010"/>
+ </tileset>
+ <tileset firstgid="1123" name="waterfall" tilewidth="128" tileheight="128" margin="1" tilecount="90" columns="10">
+  <image source="ddd/New folder (8)/waterfall.png" width="1407" height="1261"/>
+ </tileset>
+ <tileset firstgid="1213" name="ShortPlatformNew" tilewidth="128" tileheight="128" margin="1" tilecount="40" columns="8">
+  <image source="ddd/New folder (5)/New Folder/ShortPlatformNew.png" width="1055" height="642"/>
+ </tileset>
+ <tileset firstgid="1253" name="ggg" tilewidth="128" tileheight="128" margin="1" tilecount="54" columns="9">
+  <image source="ddd/New folder (5)/New Folder/ggg.png" width="1160" height="772"/>
+ </tileset>
+ <tileset firstgid="1307" name="fff" tilewidth="128" tileheight="128" margin="1" tilecount="7" columns="7">
+  <image source="ddd/New folder (8)/fff.png" width="964" height="160"/>
+ </tileset>
+ <layer name="background" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt2FO3HGYUgOGcE5sNmqQx27BBY9tubDZpksZGG9u2bbONjQa1bVtPfsLczEXXt9c8l9/sefflxMSJEyeWuMQjPglISCISk4SkJCM5KUhJKlKThrSk4zHSk4GMZOJxYsKeiPf8n1rCnrDn/7rn0fdGOtH6bf0sep7+DGAgLzCIwQxhKMMYzghGMorRjGEs4xjPBCbyIi8xickxoSf0hJ7QE/2eSCczWcjKE2QjOznISS5yk4e85CM/BSjIkzxFIQpThKIUozhPU4IpDjCVaUxnBjOZxWzmMJd5zGcBC1nEYpawlGUsZwUrWcVq1rA2JvSEntATeqLfE+mUpBSleYYylKUc5alARSpRmSpUpRrVqUFNalGbOtSlHvVpQEPWucF6NrCRTWxmC1vZxnZ2sJNd7GYPe9nHfg5wkEMc5ghHOcbxmNATekJP6Il+T6TTiMY0oSnNaE4LWtKKZ2lNG9rSjvZ0oCOd6EwXutKN7vSgJ7044QYnOcVpznCWl3mFc5znAhe5xGWucJVrXOcGN7nFbe5wl1e5FxN6Qk/oCT3R74l0etOH5+hLP56nPwMYyAsMYjBDGMowhjOCkYxiNGMYyzjGM4GJ3HeDBzzkNV7nDd7kLd7mHd7lPd7nAz7kIz7mEz7lMz7nC77kK77mm5jQE3pCT+iJfk+k8yIvMYnJTGEq05jODGYyi9nMYS7zmM8CFrKIxSxhKctYzgpW8q0bfMf3/MCP/MTP/MKv/Mbv/MGf/MXf/MO/PPqDPIZY4hKP+CQgIYliQ0/oCT2hJ/o9kc4qVrOGtaxjPRvYyCY2s4WtbGM7O9jJLnazh73sYz8HOMghDpPYDZKQlGQkJwUpSUVq0pCWdDxGejKQkUw8TmaykJUnyEZ2cpAzNvSEntATeqLfE+kc4SjHOM4JTnKK05zhLC/zCuc4zwUuconLXOEq17jODW5yi9vkcoPc5CEv+chPAQryJE9RiMIUoSjFKM7TlKAkpSjNM5ShLOUoHxt6Qk/oCT3R74l07nCXV7nHfR7wkNd4nTd4k7d4m3d4l/d4nw/4kI/4mE/4lM/4nC+o4AYVqURlqlCValSnBjWpRW3qUJd61KcBDWlEY5rQlGY0pwUtY0NP6Ak9oSf6PZHOl3zF13zDt3zH9/zAj/zEz/zCr/zG7/zBn/zF3/zDv4++NMaHWOISj1Zu8CytaUNb2tGeDnSkE53pQle60Z0e9KQXvenDc/SlH8/TnwGxoSf0hJ7QE/2eSCe+NwlISCISk4SkJCM5KUhJKlKThrSk4zHSk4GMZOJxMpOFrDzBQDd4gUEMZghDGcZwRjCSUYxmDGMZx3gmMJEXeYlJTGYKU5nG9NjQE3pCT+iJfk+kk82b7OQgJ7nITR7yko/8FKAgT/IUhShMEYpSjOI8TQlKUorSPMMMN5jJLGYzh7nMYz4LWMgiFrOEpSxjOStYySpWs4a1rGM9G9gYG3pCT+gJPdHviXTKeFOWcpSnAhWpRGWqUJVqVKcGNalFbepQl3rUpwENaURjmtCUTW6wmS1sZRvb2cFOdrGbPexlH/s5wEEOcZgjHOUYxznBSU5xOjb0hJ7QE3qi3xPpNPOmOS1oSSuepTVtaEs72tOBjnSiM13oSje604Oe9KI3fXiOvpxxg7O8zCuc4zwXuMglLnOFq1zjOje4yS1uc4e7vMo97vOAh7wWG3pCT+gJPdHviXT+A+Vo2JY=
+  </data>
+ </layer>
+ <layer name="water" width="350" height="15" opacity="0.99">
+  <data encoding="base64" compression="zlib">
+   eJzt2UlLI0EYh/GGro/iGvc94xp3ZxQdl5HZXEDRk6InhxEPip7UZC4j+j30u+ltHqkUCUU3aYRMQ/w/8KOg+j2I0i9Rg0AppZRSSiml/n+PYRA8hWl/FUoppZRSSimllFJKKVX7PYdB8KK/xyqllFJKKaWUesc18HtxI5rQjAxa0Io2tOv35qq3Y6zdCHvYx3Vo3YSlO/90z91M3JxSKt06eUe70I0e9KIP/RhAVnu36h0Y6zDCEY5xG1r5sHTnn+65m4mbU0ql2yDv6BCGMYJRjCGHcUzU4N6tY/fUowGNaEIzMmhBq0k+k2SuUifG+hXhN05RKO7TP2Hpzj8LxeduJm5OKZVuU7yj05jBLObwEZ8wj4Ua3Ltt7J52dKATXehGD3rRZ5LPJJmr1LmxLiJc4srYnev2qrvzz0LZ593LiOfuVEql2yLv6BI+YxkrWMUavmC9BvduP7tnAFl8wCCGMIwRjJrkM0nmKnVtrJsI+dd96n3edXf+6c/EzSml0u0r7+g3fMcP/MQGNrGF7eLePXvj/nX/6/HPNBtj9+QwjglMYgrTmMGsST6TZC7ue+DOv8a6i3CPh+JOdXvV3fln+d69j3juTlX9Kv3M1fvuH4Vhj8E=
+  </data>
+ </layer>
+ <layer name="tree" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt0seKwDAMhOGAn3R777234+5D75yN0UqxtWD4PxhyGDsIJcsCAAAAAAAAAAAAAAAAAAAAAAAAAMD/2SjLsqlsKdvKjrKr7BW7G/Vez/m6n0VrZmuPnn2v+SY9u43czegj82R3wCj7+p8OlEPlSDlWTpTTYnej3us5X/ezaM1s7dGz7zXfpGe3kbsZfWSe7A4Y5Uz/07lyoVwqV8q1clPsbtR7Pefrfhatma09eva95pv07DZyN6OPzJPdAaPc6n+6U+6VB+VReVKei92Neq/nfN3PojWztUfPvtd8k57dRu5m9JF5sjtglBf9T6/Km/KufCifylexu1Hv9Zyv+1m0Zrb26Nm3deZb+Wk8e3YbuZvRR+bJ7oC//AJ/Ix5L
+  </data>
+ </layer>
+ <layer name="bunker" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt0jEKgDAMBdBC7z+ooB7XLm4dbIothfcgW36G8FMCAAAAAAAAAAAAAAAAAAAAAAC2nNJe5sj/7EczI26trvaL3v9E8y252R2C2c7S46vM/bHPrfvRzIhbq6v9ovc/0XxLbnaH4PUAL4ojgw==
+  </data>
+ </layer>
+ <layer name="maphaw" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1DdyQkEARMEf7FEECCeQ8FZ47n8jzRE21nZXvWzi6ToAAAAAAAAAAAAAAAD+i4/Sdb3UT4P0mYZplMZpUuo3NTuA1k3zhV9plubpO/2kRVqmVanf1OwAWrfOF27SNu3SPh3SMZ3SudRvanYArfvNF17SNd3SPT3SM73Su9RvanYAAADQij/RFxkZ
+  </data>
+ </layer>
+ <layer name="brush" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1MlOQkEURdGX1JcKSiPSN4JIpz/OmdeM1OytlezRzZnergMAAAAAAAAAAAAAAAAAXvVWum6Qhuk9faRRGpf63nIL0FeT/MRp+kyz9JXmaVHqe8stQF8t8xNXaZ02aZt2aV/qe8stQF8d8hO/0zGd0k86p99S31tuAfrqkp94Tbd0T4/0l/5LfW+5BXgCviUteQ==
+  </data>
+ </layer>
+ <layer name="ground_graphic" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt0TEKgDAMAMBgn6+g36v6GAUHHUSsQx16ByENlKYkEQAAAAAAAAAAAAAAAAAAAAAAAECrchcx77Fc8vpwzoX1m75f3i2p+xQxpDPX7P00g5JZvLk/piOmVGcn/Y8zvfvLnzsu3Tlt2wAxV6BL
+  </data>
+ </layer>
+ <layer name="platform" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt2ndT1EAAh+FAsiBNHbujfnd777037L1h7wqoVJWqAr4MMhPD7c4ZcpfN+Xtnnv+YZUP2NtkbgkAppZRSSimllFKqdlofBsEGbMQmbMYWbMU2bMcO7MQu7MYe7MU+7McBHMQhHMaRMO+rcl+X73NXStV2R9lnjuE4TuAkTuE0zuAszuE8LuAi2nEJl3EFV3EN13EDNz3Yu1zX5fvc1Ux1JgjqEZq8Z6LU/Iuv59sR2Gvu4C7u4T4e4CEeoQOP8QRP8QzP8QIv8Qqv8QZv8c6DvetWaL8u3+dei9nOH67zRjPrswWtxj2WziyqCMXXcwf77gfW6Ud0ogvd+ITP+IIe9KIP/RjAIL7iG75jCMMYwWiO6z7+TLFdV7lzjxjDoAGNeueaV7bzh+u8sZS/+TIsN+6xdGZRRSi5nsdZpz/wE78wgUlMTa9f9uU61CNEBIMGNGIBmtCMFrSiLZoZt5L7Vie/owvd6EEv+qK/nym26ypn7tO1McZCLMJi7bvObPdjNtv5I815IzmWzizK56r9fVlm+5aZO/d+PtMDGMQQhjES2d+R0rSCMVZiFVZr33Vmux+zvQ9Lnz/SnJWSY/l03lIqme37skqV1b7VZObOfZTP9BjGMYHJP6Yi91gqm5LPwVL3I34vxsLS5w/XecNWcqw0YyhVrbJ8F6xoiffbJaZAc/9PqvYzXKkiVcT/xSn1fqvyL76W9BxUyl4R9y/X+22az/safnYt1nnyN/BtPuVWxLWkVB7pvURlldaSUkoppf6133zG+1k=
+  </data>
+ </layer>
+ <layer name="displat" width="350" height="15" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJzt1rENADAIA0GKDMz+FaLIChApd9L3Lh0BAAAAAAAAAAAAAAAAAAD8Js/2AgAAmNHf9wYAAC8okWAB0Q==
+  </data>
+ </layer>
+ <objectgroup name="Ground">
+  <object id="259" name="Ground" x="4" y="1808" width="3062" height="108"/>
+  <object id="260" name="Groud" x="3841" y="1803" width="3452" height="117"/>
+  <object id="263" name="Bunker" x="3868" y="1666.67" width="250.667" height="134.667"/>
+  <object id="271" name="Bunker" x="7053.33" y="1678.67" width="233.333" height="118.667"/>
+  <object id="273" name="Bunker" x="5390" y="1665" width="277" height="137"/>
+  <object id="275" name="Platform" x="4284" y="554" width="2654" height="192"/>
+  <object id="280" name="Platform" x="11201.3" y="557.333" width="1726.67" height="186.667"/>
+  <object id="285" name="Ground" x="7810" y="1808" width="3580" height="110"/>
+  <object id="287" name="Ground" x="12418" y="1804.5" width="1150" height="117.5"/>
+  <object id="288" name="Ground" x="13954" y="1805.5" width="764" height="105.348"/>
+  <object id="289" name="Ground" x="15110" y="1804.5" width="890" height="113.5"/>
+  <object id="291" name="Bunker" x="9498.67" y="1666.67" width="254.667" height="134.667"/>
+  <object id="298" name="Ground" x="16772" y="1802" width="1530" height="110"/>
+  <object id="301" name="Bunker" x="18068" y="1668" width="262" height="135"/>
+  <object id="302" name="Bunker" x="18708" y="1667" width="273" height="135"/>
+  <object id="303" name="Ground" x="18692" y="1804" width="4090" height="124"/>
+  <object id="304" name="Bunker" x="22550" y="1670" width="248.667" height="133.333"/>
+  <object id="305" name="Bunker" x="20756.7" y="1666.67" width="262.667" height="139.333"/>
+  <object id="306" x="23302" y="1808" width="4092" height="116"/>
+  <object id="309" name="Platform" x="26427.3" y="811.333" width="988" height="159.333"/>
+  <object id="310" name="Platform" x="24002.7" y="813.333" width="1232" height="96"/>
+  <object id="313" name="Bunker" x="25619.3" y="1665.33" width="264.667" height="140.667"/>
+  <object id="314" name="Bunker" x="23956.7" y="1662" width="266" height="144"/>
+  <object id="338" x="-1" y="1114" width="12" height="687"/>
+  <object id="341" x="3633" y="1052" width="238" height="60"/>
+  <object id="342" x="3907.67" y="668" width="218.667" height="65.3333"/>
+  <object id="352" x="7205" y="922" width="41" height="223"/>
+  <object id="357" x="10262" y="997" width="508" height="65"/>
+  <object id="358" x="10942" y="797" width="214" height="56"/>
+  <object id="359" x="9145" y="1306" width="214" height="71"/>
+  <object id="360" x="9661" y="1048" width="212" height="74"/>
+  <object id="364" x="13362.5" y="803" width="17" height="230"/>
+  <object id="365" x="25653" y="536" width="218" height="78"/>
+  <object id="366" x="22457.3" y="1180" width="221.333" height="70.6667"/>
+  <object id="367" x="22084" y="1433.33" width="204" height="78.6667"/>
+  <object id="369" x="23069.3" y="993.333" width="497.333" height="89.3333"/>
+  <object id="385" x="11526" y="1561.33" width="311.333" height="58"/>
+  <object id="387" x="16133.5" y="1552.5" width="307" height="60.5"/>
+ </objectgroup>
+ <objectgroup name="Scope">
+  <object id="317" name="Scope" x="4300" y="404" width="50" height="148"/>
+  <object id="318" name="Scope" x="6882" y="402" width="56" height="146"/>
+  <object id="322" name="Scope" x="7712" y="1647.33" width="98" height="160"/>
+  <object id="323" name="Scope" x="11392" y="1650" width="67" height="157"/>
+  <object id="324" name="Scope" x="11164" y="418" width="50" height="140"/>
+  <object id="326" name="Scope" x="12888" y="430" width="116" height="120"/>
+  <object id="327" name="Scope" x="12308" y="1668" width="128" height="132"/>
+  <object id="328" name="Scope" x="13564" y="1666" width="110" height="134"/>
+  <object id="329" name="Scope" x="13912" y="1660" width="46" height="148"/>
+  <object id="330" name="Scope" x="14702" y="1666" width="104" height="134"/>
+  <object id="331" name="Scope" x="15074" y="1652" width="68" height="148"/>
+  <object id="332" name="Scope" x="15936" y="1644" width="78" height="162"/>
+  <object id="334" name="Scope" x="16646" y="1660" width="140" height="138"/>
+  <object id="335" name="Scope" x="23168" y="1640" width="140" height="170"/>
+  <object id="336" name="Scope" x="27368" y="1672" width="134" height="138"/>
+  <object id="355" x="10772" y="902.667" width="86.6667" height="113.333"/>
+  <object id="356" x="10234.7" y="906.667" width="49.3333" height="117.333"/>
+  <object id="374" x="22382" y="1030" width="72" height="166"/>
+  <object id="375" x="22684" y="1022" width="44" height="178"/>
+  <object id="376" x="22976" y="850" width="88" height="152"/>
+  <object id="377" x="23570" y="830" width="58" height="168"/>
+  <object id="378" x="23912" y="636" width="84" height="220"/>
+  <object id="379" x="25230" y="650" width="106" height="182"/>
+  <object id="383" x="26357.3" y="638.667" width="66.6667" height="188"/>
+  <object id="384" x="27410.7" y="638.667" width="80" height="190.667"/>
+  <object id="388" x="16441" y="1478" width="38" height="79.5"/>
+  <object id="389" x="16108" y="1477.5" width="24.5" height="88"/>
+ </objectgroup>
+ <objectgroup name="Coins">
+  <object id="400" x="1092" y="1535" width="182" height="132"/>
+  <object id="401" x="1429" y="1537" width="182" height="132"/>
+  <object id="403" x="1751" y="1537" width="182" height="132"/>
+ </objectgroup>
+ <objectgroup name="Displat">
+  <object id="6" x="2704" y="7216" width="32"/>
+  <object id="412" x="2049.33" y="1401.33" width="129.333" height="130.667"/>
+  <object id="413" x="2434.67" y="1660" width="129.333" height="126.667"/>
+  <object id="414" x="2572" y="1661.33" width="116" height="126.667"/>
+  <object id="415" x="2688" y="1664" width="118.667" height="121.333"/>
+ </objectgroup>
+ <objectgroup name="GroundPoly">
+  <object id="350" x="7246" y="926">
+   <polygon points="0,0 9,215 453,189"/>
+  </object>
+  <object id="362" x="13820" y="981">
+   <polygon points="0,0 -440,-178 -441,51"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Enemies">
+  <object id="264" x="4338.67" y="1674.67" width="129.333" height="121.333"/>
+  <object id="267" x="5761.33" y="1666.67" width="132" height="125.333"/>
+  <object id="274" x="5384" y="392" width="128" height="124"/>
+  <object id="277" x="8406.06" y="1642.42" width="130.303" height="139.394"/>
+  <object id="278" x="10281.8" y="1651.52" width="160.606" height="145.455"/>
+  <object id="279" x="11896" y="388" width="130" height="120"/>
+  <object id="281" x="14268" y="1689.33" width="105.333" height="105.333"/>
+  <object id="282" x="13093.9" y="1678.79" width="124.242" height="124.242"/>
+  <object id="284" x="15506.1" y="1678.79" width="130.303" height="112.121"/>
+  <object id="292" x="17574" y="1660" width="140" height="142"/>
+  <object id="293" x="19670" y="1654" width="148" height="146"/>
+  <object id="295" x="21580" y="1660" width="152" height="136"/>
+  <object id="311" x="24956" y="1664" width="134" height="138"/>
+  <object id="312" x="26556" y="1664" width="148" height="146"/>
+  <object id="315" x="23526" y="1662" width="144" height="140"/>
+  <object id="319" x="6402" y="386" width="126" height="130" rotation="90"/>
+  <object id="343" x="12556" y="390" width="114" height="116"/>
+  <object id="354" x="10500" y="873.333" width="116" height="121.333"/>
+  <object id="370" x="24190.7" y="644" width="132" height="124"/>
+  <object id="371" x="24833.3" y="651.515" width="127.273" height="127.273"/>
+  <object id="372" x="23298" y="824" width="117" height="109"/>
+  <object id="373" x="22525" y="1024" width="120" height="129"/>
+  <object id="380" x="26624" y="638.667" width="130.667" height="125.333"/>
+  <object id="381" x="27014.7" y="641.333" width="124" height="128"/>
+  <object id="386" x="16252.5" y="1484.5" width="53" height="61"/>
+ </objectgroup>
+ <objectgroup name="GroundLine">
+  <object id="416" x="3240" y="1462.67">
+   <polyline points="0,0 42.6667,-24.6667 222,-28 260.667,11.3333"/>
+  </object>
+ </objectgroup>
+</map>

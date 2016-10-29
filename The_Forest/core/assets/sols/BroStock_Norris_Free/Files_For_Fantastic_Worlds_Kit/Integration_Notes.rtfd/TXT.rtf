@@ -1,0 +1,82 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww22620\viewh15860\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\b\fs24 \cf0 Quick Integration Tips for the Fantastic Worlds iOS Starter Kit  (available from {\field{\*\fldinst{HYPERLINK "http://iosstarterkits.com"}}{\fldrslt iOSStarterKits.com}} ).\'85.
+\b0 \
+\
+1. Drag and drop the .atlas folders into Xcode. Be sure to check 
+\b Copy Items into Destination Group\'92s folder (if needed)
+\b0 . And be sure 
+\b Add to Targets
+\b0  has 
+\b Quest
+\b0  checked on. This will add the character\'92s animation sequences as a resource.\
+\
+ {{\NeXTGraphic import.jpg \width8000 \height5260
+}¬}\
+\
+2. The Property List (For example 
+\b Bro2.plist
+\b0 )  will contain dictionaries organized in the same structure as those in the 
+\b GameData.plist
+\b0  in the Xcode project for the Fantastic Worlds Kit.  Select and copy the entire dictionary for a character (as seen in the screen shot below).\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 {{\NeXTGraphic plist.jpg \width8900 \height4020
+}¬}\
+3. Paste the dictionary into the kit\'92s 
+\b Characters
+\b0  dictionary in the 
+\b GameData.plist 
+\b0 (see the screenshot below).\
+\
+{{\NeXTGraphic Screen Shot 2014-08-26 at 11.24.24 AM.jpg \width14600 \height10940
+}¬}\
+\
+4. The kit now has the character ready!  Do the same thing for the items in the 
+\b Weapons
+\b0  and 
+\b Collectibles
+\b0  dictionary. The Weapons dictionary might use a weapon not included in the kit by default, so if there are images files in the 
+\b WeaponArt
+\b0  folder (for example, grenade.png and grenade@2x.png)  you can drag and drop those into the 
+\b Images.xcassets
+\b0  folder. The kit has a 
+\b bullet
+\b0  and 
+\b grenade
+\b0  image already set in the 
+\b Images.xcassets
+\b0  folder, but you can replace those with your own images too. \
+\
+\
+{{\NeXTGraphic Screen Shot 2014-08-26 at 11.45.55 AM.jpg \width18260 \height6160
+}¬}\
+\
+\
+5. You\'92re almost ready for a quick test. Next we just need to tell a level to start with this new character. Unfold your Levels dictionary, pick a level, then go to 
+\b CharactersForThisLevel > NewPrimaryCharacter 
+\b0 and for the 
+\b Name
+\b0  property set it to the dictionary of the character your brought in. For example, 
+\b Bro2
+\b0 .\
+\
+{{\NeXTGraphic Screen Shot 2014-08-26 at 11.27.13 AM.jpg \width9380 \height7000
+}¬}\
+\
+\
+\
+6. 
+\b Hit Run!  
+\b0 Keep in mind, the physics in the kit will never run full speed on the Simulator, so always test on your device. \
+\
+\
+{{\NeXTGraphic Screen Shot 2014-08-26 at 11.37.14 AM.jpg \width6920 \height4080
+}¬}\
+\
+\
+}

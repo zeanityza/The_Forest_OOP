@@ -1,0 +1,239 @@
+
+scene1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BG/BG
+  rotate: false
+  xy: 1, 1
+  size: 1000, 750
+  orig: 1000, 750
+  offset: 0, 0
+  index: -1
+
+scene12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Object/Tree
+  rotate: false
+  xy: 1, 180
+  size: 282, 301
+  orig: 282, 301
+  offset: 0, 0
+  index: 2
+Object/Tree
+  rotate: false
+  xy: 285, 206
+  size: 282, 275
+  orig: 282, 275
+  offset: 0, 0
+  index: 3
+Object/Bush (1)
+  rotate: false
+  xy: 1, 113
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: -1
+Object/Bush (2)
+  rotate: false
+  xy: 569, 416
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: -1
+Object/Tree
+  rotate: false
+  xy: 1, 67
+  size: 116, 44
+  orig: 116, 44
+  offset: 0, 0
+  index: 1
+Object/Crate
+  rotate: false
+  xy: 569, 337
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Object/Stone
+  rotate: false
+  xy: 136, 124
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+Object/Sign
+  rotate: false
+  xy: 704, 416
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: 1
+Object/Sign
+  rotate: false
+  xy: 1, 1
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: 2
+Object/Bush (3)
+  rotate: false
+  xy: 569, 288
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+Object/Bush (4)
+  rotate: false
+  xy: 648, 368
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+Object/Mushroom
+  rotate: false
+  xy: 228, 137
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: 2
+Object/Mushroom
+  rotate: false
+  xy: 769, 440
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: 1
+
+scene13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Tiles/4
+  rotate: false
+  xy: 1, 362
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+Tiles/1
+  rotate: false
+  xy: 1, 232
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/10
+  rotate: false
+  xy: 132, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/11
+  rotate: false
+  xy: 1, 102
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/12
+  rotate: false
+  xy: 262, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/16
+  rotate: false
+  xy: 392, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/18
+  rotate: false
+  xy: 522, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/2
+  rotate: false
+  xy: 652, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/3
+  rotate: false
+  xy: 782, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/17
+  rotate: false
+  xy: 1, 1
+  size: 128, 99
+  orig: 128, 99
+  offset: 0, 0
+  index: -1
+Tiles/13
+  rotate: false
+  xy: 132, 268
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+Tiles/5
+  rotate: false
+  xy: 131, 138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/6
+  rotate: false
+  xy: 131, 8
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/14
+  rotate: false
+  xy: 262, 268
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+Tiles/7
+  rotate: false
+  xy: 261, 138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/8
+  rotate: false
+  xy: 261, 8
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Tiles/15
+  rotate: false
+  xy: 392, 268
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+Tiles/9
+  rotate: false
+  xy: 391, 138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

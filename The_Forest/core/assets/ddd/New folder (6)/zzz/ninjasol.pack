@@ -1,0 +1,85 @@
+
+ninjasol.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 0
+Run_
+  rotate: false
+  xy: 1, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 1
+Run_
+  rotate: false
+  xy: 366, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 2
+Run_
+  rotate: false
+  xy: 366, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 3
+
+ninjasol2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 4
+Run_
+  rotate: false
+  xy: 1, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 5
+Run_
+  rotate: false
+  xy: 366, 461
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 6
+Run_
+  rotate: false
+  xy: 366, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 7
+
+ninjasol3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Run_
+  rotate: false
+  xy: 1, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 8
+Run_
+  rotate: false
+  xy: 366, 1
+  size: 363, 458
+  orig: 363, 458
+  offset: 0, 0
+  index: 9

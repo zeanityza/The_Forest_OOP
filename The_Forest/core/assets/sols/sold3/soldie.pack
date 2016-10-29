@@ -1,0 +1,54 @@
+
+soldie.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+die
+  rotate: false
+  xy: 1, 757
+  size: 330, 250
+  orig: 330, 250
+  offset: 0, 0
+  index: 1
+die
+  rotate: false
+  xy: 1, 505
+  size: 330, 250
+  orig: 330, 250
+  offset: 0, 0
+  index: 2
+die
+  rotate: false
+  xy: 333, 757
+  size: 330, 250
+  orig: 330, 250
+  offset: 0, 0
+  index: 3
+die
+  rotate: false
+  xy: 1, 253
+  size: 330, 250
+  orig: 330, 250
+  offset: 0, 0
+  index: 4
+die
+  rotate: false
+  xy: 333, 505
+  size: 330, 250
+  orig: 330, 250
+  offset: 0, 0
+  index: 5
+die
+  rotate: false
+  xy: 665, 757
+  size: 330, 250
+  orig: 330, 250
+  offset: 0, 0
+  index: 6
+die
+  rotate: false
+  xy: 1, 1
+  size: 330, 250
+  orig: 330, 250
+  offset: 0, 0
+  index: 7

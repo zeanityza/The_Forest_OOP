@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="350" height="15" tilewidth="128" tileheight="128" nextobjectid="256">
+ <tileset firstgid="1" name="back3" tilewidth="128" tileheight="128" margin="1" tilecount="364" columns="26">
+  <image source="ddd/New folder (5)/back3.jpg" width="3440" height="1840"/>
+ </tileset>
+ <tileset firstgid="365" name="back4" tilewidth="128" tileheight="128" margin="1" tilecount="364" columns="26">
+  <image source="ddd/New folder (5)/back4.png" width="3440" height="1840"/>
+ </tileset>
+ <tileset firstgid="729" name="ground2" tilewidth="128" tileheight="128" margin="1" tilecount="224" columns="32">
+  <image source="ddd/New folder (5)/ground2.png" width="4171" height="935"/>
+ </tileset>
+ <tileset firstgid="953" name="tree_vector_by_ottinho-d54qo0p" tilewidth="128" tileheight="128" margin="1" tilecount="28" columns="7">
+  <image source="ddd/New folder (5)/New Folder/tree_vector_by_ottinho-d54qo0p.png" width="900" height="633"/>
+ </tileset>
+ <tileset firstgid="981" name="tree11" tilewidth="128" tileheight="128" margin="1" tilecount="108" columns="9">
+  <image source="ddd/New folder (5)/New Folder/tree11.png" width="1250" height="1600"/>
+ </tileset>
+ <tileset firstgid="1089" name="seamless-summer-ocean-background-ui-game-illustration-cartoon-wide-water-waves-patterns-holidays-vacations-landscape-56117160" tilewidth="128" tileheight="128" margin="1" tilecount="60" columns="10">
+  <image source="ddd/New folder (5)/New Folder/seamless-summer-ocean-background-ui-game-illustration-cartoon-wide-water-waves-patterns-holidays-vacations-landscape-56117160.jpg" width="1300" height="879"/>
+ </tileset>
+ <tileset firstgid="1149" name="Trees colored" tilewidth="128" tileheight="128" margin="1" tilecount="108" columns="12">
+  <image source="ddd/New folder (5)/New Folder/Trees colored.png" width="1600" height="1157"/>
+ </tileset>
+ <tileset firstgid="1257" name="Wooden Platform2" tilewidth="128" tileheight="128" margin="1" tilecount="36" columns="12">
+  <image source="ddd/New folder (5)/groundd/Wooden Platform2.png" width="1600" height="400"/>
+ </tileset>
+ <tileset firstgid="1293" name="Wooden Platform3" tilewidth="128" tileheight="128" margin="1" tilecount="36" columns="12">
+  <image source="ddd/New folder (5)/groundd/Wooden Platform3.png" width="1600" height="400"/>
+ </tileset>
+ <tileset firstgid="1329" name="LongPlatformNew" tilewidth="128" tileheight="128" margin="1" tilecount="132" columns="22">
+  <image source="ddd/New folder (5)/groundd/LongPlatformNew.png" width="2878" height="884"/>
+ </tileset>
+ <tileset firstgid="1461" name="coin_gold" tilewidth="128" tileheight="128" margin="1" tilecount="24" columns="8">
+  <image source="ddd/New folder (5)/coin/coin_gold.png" width="1053" height="438"/>
+ </tileset>
+ <tileset firstgid="1485" name="maphaw4" tilewidth="128" tileheight="128" margin="1" tilecount="81" columns="9">
+  <image source="ddd/New folder (5)/New Folder/maphaw4.png" width="1200" height="1200"/>
+ </tileset>
+ <layer name="water" width="350" height="15" opacity="0.99">
+  <data encoding="base64" compression="zlib">
+   eJztzrkNADAMxLArMm6+/at4CqchAfVKAAAAAAAAAAAAAAAAAAAAAAAAAPrMkaxqV6e64/cRQJ8Ha4kCOw==
+  </data>
+ </layer>
+ <layer name="background" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt2NX3VHUXwGF+QwrSEhLS3Sjd3R2S0iAg3aV0d3d3Cygt3amk3d3d+j5ezD8wV+866+w1z+V31vrsfXfi4sWLFyE+CUhIIhKThEdISjIeJTkpSEkqUpOGtDxGOtKTgYw8Tib6xcWL158BDGQQgxnCUIYxnBGMZBSjGcNYxvE8LzCeCUxkEpOZwlTiAtQTpJag3SbsCXuiPbFMZrKQlSfIRnZykJNc5CYPeclHfgpQkEIUpghFKUZxSlCSJ3mKaZYwnRnMZBazmcNc5jGfBSxkEYtZwlKWsZwVrGQVq1nDWtaxPi5YPUFqCdptwp6wJ9oTy5SiNGUoSznKU4GKVKIyVahKNapTg5rUojZ1qEs96tOAhjSiMRvsYSOb2MwWtrKN7exgJ7vYzR72so/9vMgBDnKIl3iZwxzhKMfigtUTpJag3SbsCXuiPbFME5rSjOa0oCWtaM3TtKEt7WhPBzryDJ3oTBe60o3u9KAnvXiW4/ZwgpO8wilOc4aznOM8F7jIJS5zhatc4zo3uMktbvMqr3GHu3HB6glSS9BuE/aEPdGeWKY3fejLc/SjPwMYyCAGM4ShDGM4IxjJKEYzhrGM43leYDwTmMg9e7jPAx7yOm/wJm/xNu/wLu/xPh/wIR/xMZ/wKZ/xOV/wJV/xNd/EBasnSC1Bu03YE/ZEe2KZSUxmClOZxnRmMJNZzGYOc5nHfBawkEUsZglLWcZyVrCSVazmW3v4ju/5gR/5iZ/5hV/5jd/5gz/5i7/5h3/57yN5HBHik4CEJCIxSSLB6glSS9BuE/aEPdGeWGYNa1nHejawkU1sZgtb2cZ2drCTXexmD3vZx35e5AAHOcRLvMwj9pCUZDxKclKQklSkJg1peYx0pCcDGXmcTGQmC1l5gmxkJwc5I8HqCVJL0G4T9oQ90Z5Y5jBHOMoxjnOCk7zCKU5zhrOc4zwXuMglLnOFq1zjOje4yS1uk8secpOHvOQjPwUoSCEKU4SiFKM4JSjJkzxFKUpThrKUozwVqBgJVk+QWoJ2m7An7In2xDKv8hp3uMs97vOAh7zOG7zJW7zNO7zLe7zPB3zIR3zMJ3zKZ3zOF1Syh8pUoSrVqE4NalKL2tShLvWoTwMa0ojGNKEpzWhOC1rSitaRYPUEqSVotwl7wp5oTyzzJV/xNd/wLd/xPT/wIz/xM7/wK7/xO3/wJ3/xN//w739/GudHhPgk4Gl7aENb2tGeDnTkGTrRmS50pRvd6UFPevEsvelDX56jH/0ZwMBIsHqC1BK024Q9YU+0J5ZJ6F0iEpOER0hKMh4lOSlISSpSk4a0PEY60pOBjDxOJjKThaw8wSB7GMwQhjKM4YxgJKMYzRjGMo7neYHxTGAik5jMFKYyjenMYGYkWD1BagnabcKesCfaE8tk8y47OchJLnKTh7zkIz8FKEghClOEohSjOCUoyZM8RSlKU4ayzLKH2cxhLvOYzwIWsojFLGEpy1jOClayitWsYS3rWM8GNrKJzZFg9QSpJWi3CXvCnmhPLFPOu/JUoCKVqEwVqlKN6tSgJrWoTR3qUo/6NKAhjWhME5rSjOZssYetbGM7O9jJLnazh73sYz8vcoCDHOIlXuYwRzjKMY5zgpO8EglWT5BagnabsCfsifbEMi28a0krWvM0bWhLO9rTgY48Qyc604WudKM7PehJL56lN33oy3OcsofTnOEs5zjPBS5yictc4SrXuM4NbnKL27zKa9zhLve4zwMeRoLVE6SWoN0m7Al7oj3hhBNOOOH8/8//AM4rvy8=
+  </data>
+ </layer>
+ <layer name="ground_graphic" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1NlOAjEYQOHaGRV3xPUdRVEfVxTcN8AdNS7o4UoSnBFujCbnS07Si0nbP5M0BEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS/o6TGMIpndE5XdAlNahJLbqia7qhW7qje3qgNj3SE1Vpl3Z61ntUozrtx+x7DHt+nrzzD+iQjug49s+fZZD5n3+4lyR1jSYhjNE4FWiCJmmKpmmGZmmOijRPJVqgRVqiZVqhV96dN3qJX+t36tBH903im7X0+3sMe36ZfdZpgyq0SVu0neafP0KREkqT/vmz9h1k/tXkN/+cpP/qE+25UwM=
+  </data>
+ </layer>
+ <layer name="tree" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1MdOw0AYRWFLfv8HAkJCDx1CCSAgFNERHQlCkTgskAZrzCSL4M35pCv/cTxldbNMkiRJkiRJkiRJkiRJkiRJkiRJPzbzLGuTLbJNdvL4dzXej5I6aeS/14fK1g/6fpJUtVhP7vLcI/tBd3WYD8ghOSLHJb02yfspMk1mgj07he9j62PnDjEPk5FEj6buF9tbkqpQ7MlvJzxPyVnQUefMF+SSXJHrkv6a5/0CWSRLfXZc7Nwx5nEykdgrdb/Y3pJUhVhP3vC8JXdBR90zP5BH8kSeS/qrxfs1sk42+uy42LlN5lkyl9grdb/Y3pJUhbKefGF+DX53md/IO/kgn3/0VyvyX7fHviueu8y8QlYT63u5X3FvSfpvtaCDGvaRJA3MF0Ztdrc=
+  </data>
+ </layer>
+ <layer name="maphaw" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1NlKQmEAReFf6BxTyKn3fyVzAs0B1DQoh8CpoFKXD/Fz5LA+WPf7aocgSZIkSZIkSZIkSZKUL80khBdqUZs61KVekvUyScqnPv86oFca0ojGNPF3JSmKKf86ozm90YKW9O7vSlIUH/zrJ61oTRva0pe/K0lR7PjXPR3oSCf6ph9/V5Ki+OVf/+ifznS5/W0aQiHNepkk5dMD/5pQSkV6pBKV/V1JiuKJf61QlWpUpwY9+7uSJEm6A1f+8yXF
+  </data>
+ </layer>
+ <layer name="wood" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1MdO1FEARvH/YnggpEqvSpFepXeko/TepYrSkfZisIfH8KzYDSRkMkziOclvdXOTezdfEJiZmZmZmZmZWSwWHxcEH5CARCQhGSlIxUekIR0ZyEQWspGDXOQhHwUoxKe49/6VmVns9pmNLEIxSlCKLyhDOSpQiSpUowa1qEM9GtCIr2hCM1rcXTOzsLWykW1oRwc60YVu9KAXfejHNwxgEEMYxghGMYZxfMcPd9fMLGwTbOQkpjCNGcxiDvNYwCKWsIwVrGIN69jAJrbwE9vYcXfNzMK2y0buYR8H+IVD/MYfHOEYJzjFGc5xgUv8xRWucYNb3Lm7ZmZmZmZmZmZmZmZmZmZmz92HguAh9PbzaL0jUvej9R8zs3A9skFPL+zQa+fRekek7kfrP2b2f/cPJ21Ajg==
+  </data>
+ </layer>
+ <layer name="brush" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1DkOwCAMBEAKXpKjyvH/54WGEiVGUGVGcmevXTklAAAAAAAAAAAAAAAAAAAAAN6sOaWt1J7H9FVLjs1E8yNa2T07Z94J/MNZ/sdV6n75I1/7qiPHZqL5Ea3snp0z7wQAYKwH8d8How==
+  </data>
+ </layer>
+ <layer name="platform" width="350" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt2LtqAkEAheEpsmW8xetqoom+/9upqI3HQki1oCDrwvfB3y3sVMNhSgEAAAAAgOd9VqX0Uj8N0jCN0lcap0maplmaV22fFqD7FrlL67RMq/SdftI6bdJv+kvbtHPvAgDwxvYfpZzSOV1SsV8BAOiw+761awGaLd2TAJ3w//22aePevjukoy0MAEDL6gf26PG+YVvy7L/bPDMAAK9xBROuEs8=
+  </data>
+ </layer>
+ <layer name="coin" width="350" height="15" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJzt2ckJACAMBEA/9l+N/fkSRRBBPx4zENJBCLshAAAAAPwjxToAAAAAPdkBAAAAAMD9ZLzAb17ut9r+bjYApym3abQBOMfqT+kvBQBgRwZtrxaH
+  </data>
+ </layer>
+ <objectgroup name="Ground">
+  <object id="3" x="7968" y="2728"/>
+  <object id="21" x="6786" y="1788" width="1904" height="134"/>
+  <object id="28" x="4351.52" y="1793.94" width="1533.33" height="121.212"/>
+  <object id="67" x="4490" y="579" width="1292" height="76"/>
+  <object id="68" x="4883" y="557" width="938.333" height="17.6667"/>
+  <object id="70" x="2816" y="1407.33" width="305.333" height="52"/>
+  <object id="72" x="3323.33" y="1151.33" width="182.667" height="50"/>
+  <object id="73" x="3834.67" y="896" width="433.333" height="46.6667"/>
+  <object id="80" x="4091" y="1407" width="307" height="46"/>
+  <object id="117" x="2814" y="1662" width="126" height="128"/>
+  <object id="224" x="6792" y="1496" width="130" height="48"/>
+  <object id="245" x="-2" y="1794" width="3584" height="118"/>
+  <object id="253" x="1278.67" y="1661.33" width="129.333" height="129.333"/>
+  <object id="254" x="894.667" y="1280" width="129.333" height="128"/>
+ </objectgroup>
+ <objectgroup name="Pipes">
+  <object id="123" x="2688" y="1666" width="120" height="116"/>
+ </objectgroup>
+ <objectgroup name="Coins">
+  <object id="97" x="1430.67" y="1554" width="77.3333" height="102"/>
+  <object id="98" x="1685.33" y="1557.33" width="85.3333" height="101.333"/>
+  <object id="99" x="2203.33" y="1554" width="80" height="99.3333"/>
+  <object id="100" x="1946" y="1558" width="78" height="96.6667"/>
+  <object id="101" x="5272.67" y="407.333" width="81" height="84"/>
+  <object id="102" x="5401.67" y="409.333" width="82.6667" height="84"/>
+  <object id="103" x="5528.67" y="400.667" width="84" height="94.6667"/>
+  <object id="193" x="3330" y="1670" width="122" height="120"/>
+  <object id="194" x="3465" y="1662" width="122" height="120"/>
+  <object id="199" x="3847" y="772" width="122" height="120"/>
+  <object id="200" x="3979" y="766" width="122" height="120"/>
+  <object id="201" x="4105" y="772" width="122" height="120"/>
+  <object id="202" x="4231" y="1286" width="122" height="120"/>
+  <object id="203" x="5135" y="1670" width="122" height="120"/>
+  <object id="206" x="5257" y="1670" width="122" height="120"/>
+  <object id="207" x="5381" y="1674" width="122" height="120"/>
+  <object id="208" x="5507" y="1668" width="122" height="120"/>
+  <object id="209" x="5641" y="1672" width="122" height="120"/>
+  <object id="210" x="7169" y="1410" width="122" height="120"/>
+  <object id="211" x="7297" y="1404" width="122" height="120"/>
+  <object id="212" x="7429" y="1404" width="122" height="120"/>
+  <object id="213" x="7563" y="1404" width="122" height="120"/>
+  <object id="214" x="7685" y="1404" width="122" height="120"/>
+  <object id="215" x="7819" y="1404" width="122" height="120"/>
+  <object id="216" x="7949" y="1404" width="122" height="120"/>
+  <object id="219" x="8075" y="1402" width="122" height="120"/>
+  <object id="220" x="8197" y="1402" width="122" height="120"/>
+  <object id="222" x="8329" y="1406" width="122" height="120"/>
+  <object id="223" x="8461" y="1406" width="122" height="120"/>
+ </objectgroup>
+ <objectgroup name="Bricks">
+  <object id="6" x="2704" y="7216" width="32"/>
+  <object id="129" x="6782" y="1664" width="138" height="118"/>
+  <object id="130" x="8578" y="1656" width="122" height="128"/>
+  <object id="225" x="270" y="1414" width="104" height="116"/>
+  <object id="226" x="136" y="1408" width="116" height="118"/>
+ </objectgroup>
+ <objectgroup name="Ground2">
+  <object id="69" x="4487" y="645">
+   <polygon points="0,0 -52.5,2 0.5,-55.5"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Loop"/>
+ <objectgroup name="Enemies">
+  <object id="132" x="7544" y="1656" width="138" height="126"/>
+  <object id="146" x="4600" y="472.727" width="142.424" height="96.9697"/>
+  <object id="154" x="7828" y="1656" width="122" height="126"/>
+  <object id="155" x="8074" y="1648" width="132" height="126"/>
+  <object id="246" x="1550" y="1670" width="114" height="100"/>
+  <object id="249" x="2338" y="1638" width="100" height="138"/>
+ </objectgroup>
+</map>
